@@ -2,30 +2,30 @@
 ---
 
 ````markdown
-# Flask Dockerized App
+Flask Dockerized App
 
 This is a small Python Flask application that has been containerized using Docker and Docker Compose. The project demonstrates how to set up a basic Flask app, dockerize it, manage it with Docker Compose, and automate deployment with a Jenkins CI/CD pipeline.
 
 ---
 
-## 📦 Project Overview
+📦 Project Overview
 
 This project contains:
-- A **Flask web application** running on port 5000.
-- A **Dockerfile** to create a Docker image for the Flask app.
-- A **docker-compose.yml** file to simplify the building and running of containers.
-- A **Jenkinsfile** to automate CI/CD processes.
+- A Flask web application running on port 5000.
+- A Dockerfile to create a Docker image for the Flask app.
+- A docker-compose.yml file to simplify the building and running of containers.
+- A Jenkinsfile to automate CI/CD processes.
 
 By using Docker, this project ensures that the Flask app runs in an isolated environment with all dependencies required for production.
 
 ---
 
-## ✅ Prerequisites
+✅ Prerequisites
 
 Before you begin, ensure you have the following installed:
 
-- **Docker**: [Install Docker](https://www.docker.com/get-started)
-- **Docker Compose**: Comes with Docker Desktop. On Linux, install it separately.
+- Docker: [Install Docker](https://www.docker.com/get-started)
+- Docker Compose: Comes with Docker Desktop. On Linux, install it separately.
 
 Verify installations:
 
