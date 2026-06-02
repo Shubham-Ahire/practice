@@ -1,7 +1,7 @@
 
 ---
 
-````markdown
+
 Flask Dockerized App
 
 This is a small Python Flask application that has been containerized using Docker and Docker Compose. The project demonstrates how to set up a basic Flask app, dockerize it, manage it with Docker Compose, and automate deployment with a Jenkins CI/CD pipeline.
